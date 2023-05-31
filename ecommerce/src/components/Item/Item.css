@@ -1,0 +1,12 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 600px;
+    background-color: aliceblue;
+}
+
+.img{
+    max-width: 400px;
+}
